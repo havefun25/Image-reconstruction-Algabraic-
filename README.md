@@ -1,2 +1,6 @@
-# Image-reconstruction-Algabraic-
-Algebraic reconstruction algorithm, Parallel beam
+# Algabraic-Image-reconstruction algorithm
+Algebraic reconstruction algorithm, Parallel beam settings.
+
+
+
+
